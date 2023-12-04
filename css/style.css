@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main {
+    flex-grow: 1;
+}
+section {
+    background-color: rgba(127, 255, 212, 0.422);
+}
+input {
+    width: 50%;
+}
+footer {
+    background-color: aqua;
+}
